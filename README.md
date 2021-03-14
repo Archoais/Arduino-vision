@@ -5,6 +5,7 @@ The algoritm detects edges from a .bmp file or direct video feed and renders
 a black and white image with edges highlighted in red, detected object highlighted
 with a green square, and calculates a suitable picking point for a robot (blue square).
 
+<img src="images/Object%20Recognition-1.jpg" width="500">
 
 ![](images/Object%20Recognition-1.jpg)
 
