@@ -17,6 +17,7 @@ Watch youtube video at the end for a breakdown of the algoritm
 
 <img src="images/Object%20Recognition-3.jpg" width="1000">
 
-Youtube video:
 
-[![Arduino-vision]<img src="https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg" width="1000">](https://www.youtube.com/watch?v=lHf0z-T4qHo)
+
+*Youtube video:*
+<img src="https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg" width="1000">](https://www.youtube.com/watch?v=lHf0z-T4qHo)
