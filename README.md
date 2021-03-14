@@ -1,6 +1,8 @@
 # Arduino-vision
 
 **Algorithm under construction!!**
+
+
 A lightweight solution to enable object detection for Arduino projects.
 
 The algoritm detects edges from a .bmp file or direct video feed and renders
