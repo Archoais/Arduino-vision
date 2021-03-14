@@ -20,4 +20,5 @@ Watch youtube video at the end for a breakdown of the algoritm
 
 
 *Youtube video:*
+[![Arduino-vision](http://i.imgur.com/lHf0z-T4qHo.png)]((https://www.youtube.com/watch?v=lHf0z-T4qHo "Arduino Vision")
 <img src="https://img.youtube.com/vi/lHf0z-T4qHo/0.jpg" width="1000">(https://www.youtube.com/watch?v=lHf0z-T4qHo)
