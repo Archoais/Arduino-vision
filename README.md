@@ -8,10 +8,12 @@ with a green square, and calculates a suitable picking point for a robot (blue s
 
 ![](images/Object%20Recognition-1.jpg)
 
+![](images/Object%20Recognition-4.jpg)
+
+![](images/Object%20Recognition-5.jpg)
+
 ![](images/Object%20Recognition-2.jpg)
 
 ![](images/Object%20Recognition-3.jpg)
 
-![](images/Object%20Recognition-4.jpg)
 
-![](images/Object%20Recognition-5.jpg)
