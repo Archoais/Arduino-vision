@@ -7,14 +7,13 @@ with a green square, and calculates a suitable picking point for a robot (blue s
 
 <img src="images/Object%20Recognition-1.jpg" width="1000">
 
-![](images/Object%20Recognition-1.jpg)
+<img src="images/Object%20Recognition-4.jpg" width="1000">
 
-![](images/Object%20Recognition-4.jpg)
+<img src="images/Object%20Recognition-5.jpg" width="1000">
 
-![](images/Object%20Recognition-5.jpg)
+<img src="images/Object%20Recognition-2.jpg" width="1000">
 
-![](images/Object%20Recognition-2.jpg)
+<img src="images/Object%20Recognition-3.jpg" width="1000">
 
-![](images/Object%20Recognition-3.jpg)
 
 
