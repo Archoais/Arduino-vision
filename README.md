@@ -1,6 +1,6 @@
 # Arduino-vision
 
-**Algorithm under construction!!**
+**WARNING: Algorithm under construction!!**
 
 
 A lightweight solution to enable object detection for Arduino projects.
